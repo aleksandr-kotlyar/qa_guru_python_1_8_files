@@ -1,0 +1,6 @@
+requests==2.28.1
+selene==2.0.0b5
+PyPDF2==2.5.0
+xlrd==2.0.1
+OpenPyXl==3.0.10
+pytest==7.1.2
